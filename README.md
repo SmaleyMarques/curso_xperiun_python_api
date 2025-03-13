@@ -1,23 +1,10 @@
-# **Curso Téo me Why - 2025**
+# **Curso Xperiun API com Python**
 
-Curso focado em features de Data Science do ínicio ao fim.
+Projeto de extração de API usando Python
 
-## **Conteúdo do Curso:**
 
-1. Git e GitHub  (curso)
- 
-2. Python (curso)
- 
-3. Pandas (curso)
- 
-4. Estatísticas Pt. I (curso)
- 
-5. Estatísticas Pt. II (curso)
- 
-6. Machine Learning (curso)
+## **Material do Curso:**
 
-7. Datalake/Lakehouse (projeto)
+link 1: https://drive.google.com/drive/folders/16cKZ3bFDab1l2j2JdL9jBqK0Hy4tmVzL
 
-8. Machine Learning nas Nuvens (projeto)
-
-9. Dota2 Plataform
+link 2: https://myfin-financial-management.bubbleapps.io
