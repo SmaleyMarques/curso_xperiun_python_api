@@ -41,8 +41,8 @@ df_recipient = pd.DataFrame(recipient_json, columns=['_id', 'title', 'category_r
 
 # Salvando em excel e parquet com Pandas sem index
 
-df_category.to_excel('category.xlsx', index=False)
-df_recipient.to_excel('recipient.xlsx', index=False)
+df_category.to_excel('data/category.xlsx', index=False)
+df_recipient.to_excel('data/recipient.xlsx', index=False)
 
-df_category.to_parquet('category.parquet', index=False)
-df_recipient.to_parquet('recipient.parquet', index=False)
+df_category.to_parquet('data/category.parquet', index=False)
+df_recipient.to_parquet('data/recipient.parquet', index=False)

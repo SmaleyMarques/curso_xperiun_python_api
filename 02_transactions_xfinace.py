@@ -60,5 +60,5 @@ transactions_dados = chamar_api_xfinance(url_transactions)
 df = pd.DataFrame(transactions_dados)
 
 # Salvando em excel e parquet com Pandas sem index
-df.to_excel('transactions.xlsx', index= False)
-df.to_parquet('transactions.parquet', index= False)
+df.to_excel('data/transactions.xlsx', index= False)
+df.to_parquet('data/transactions.parquet', index= False)
