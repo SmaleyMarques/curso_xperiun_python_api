@@ -1,10 +1,2 @@
-# **Curso Xperiun API com Python**
-
-Projeto de extração de API usando Python
-
-
-## **Material do Curso:**
-
 link 1: https://drive.google.com/drive/folders/16cKZ3bFDab1l2j2JdL9jBqK0Hy4tmVzL
-
 link 2: https://myfin-financial-management.bubbleapps.io
